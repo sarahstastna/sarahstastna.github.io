@@ -8,7 +8,7 @@ h1 {
     color:#224941 ;
 }
 body{
-    background: #224941 url('/images/img.jpg') no-repeat center center/cover;
+    background: #224941 url('https://github.com/sarahstastna/sarahstastna.github.io/blob/main/img.jpg?raw=true') no-repeat center center/cover;
     color: white;
     font-family: 'Montserrat', 'sans-serif';
     display: flex;
